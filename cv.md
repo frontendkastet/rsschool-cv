@@ -10,7 +10,7 @@
 3. I really want to develop in web development and make every effort for this. I want to be a professional and in-demand front-end developer and create interesting interfaces for millions of users. I have extensive experience in sales as well as in the logistics area. Persistent, stress-resistant, creative, result-oriented, I try to find non-standard solutions in different situations. I am engaged in self-education, easy to learn new things and very motivated. all POSITIVE
 4. At the moment, I have already managed to master the layout, including adaptive and cross-browser, the initial level in JavaScript, I have experience with Photoshop, figma, avakode, css3, less / sass scss, git, github, bootstrap.
 5. 
-    ```JavaScript
+     ```JavaScript
     
             const createTable = (data) => {
               const table = document.createElement('table');
@@ -38,3 +38,6 @@
               document.body.appendChild(table);
             };
     ```
+6. Completed courses on HTML and CSS from the OR media and IT shuttle Company - the basics of Javascript development
+7. I have higher education with a degree in management of organizations
+8. For testing from the company EPAM I have level A2 in English
