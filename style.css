@@ -37,12 +37,40 @@
   padding:0 8% 0 8%;
 }
 
+.info-title{
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.contact-info{
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.contact-list{
+  display: flex;
+  flex-direction: column;
+}
+
+.info-item{
+  
+}
+
+
 .info-link{
+  display: flex;
+  align-items:center;
   text-decoration: none;
+  padding-left: 5px;
 }
 
 .i-color{
   color: rgb(18, 56, 94);
+  margin-right: 10px;
+  margin-top: 10px;
 }
 
 .info-item{
