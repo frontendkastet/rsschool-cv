@@ -1,0 +1,153 @@
+.header{
+  height: 400px;
+  display: flex;
+  align-items: center;
+  padding:0 8% 0 8%;
+  background: rgb(91, 167, 167);
+}
+
+.main-pic{
+
+}
+
+.pic-item{
+  height: 340px;
+  width: 340px;
+  border-radius:50%;
+}
+
+.name-block{
+  margin: 0 auto;
+}
+
+.my-name{
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 72px;
+}
+
+.cv{
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 52px;
+  align-items:center;
+  text-align: center;
+}
+
+.info{
+  
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+  padding:0 8% 0 8%;
+}
+
+.info-title{
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.contact-info{
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.contact-list{
+  display: flex;
+  flex-direction: column;
+}
+
+.info-item{
+  
+}
+
+
+.info-link{
+  display: flex;
+  align-items:center;
+  text-decoration: none;
+  padding-left: 5px;
+}
+
+.i-color{
+  color: rgb(18, 56, 94);
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.info-item{
+  color: black;
+}
+
+.about-me-info, .my-tehnology{
+  padding: 10px;
+  width: 400px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.code{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.fa-bootstrap:hover{
+  color:#7952b3;
+  transition: .4s;
+}
+
+.fa-js:hover{
+  color:rgb(209, 209, 0);
+  transition: .4s;
+}
+
+.fa-html5:hover{
+  color:#dd4b25;
+  transition: .4s;
+}
+
+.fa-css3-alt:hover{
+  color:#2000d8;
+  transition: .4s;
+}
+
+.fa-sass:hover{
+  color:#ce679a;
+  transition: .4s;
+}
+
+.fa-git-alt:hover{
+  color:#f05030;
+  transition: .4s;
+}
+
+.fa-github:hover{
+  color:#3d3a39;
+  transition: .4s;
+}
+
+.fa-react:hover{
+  color:#57d2f3;
+  transition: .4s;
+}
+
+.fa-less:hover{
+  color:#b9bbbb;
+  transition: .4s;
+}
+
+.footer{
+  height: 80px;
+  background-color: #5ba7a7;
+  position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    background: #5ba7a7;
+}
+
+.web{
+  margin-top: 15px;
+  text-align: center;
+}
