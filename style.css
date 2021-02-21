@@ -33,9 +33,9 @@
 }
 
 .info{
-  
   display: flex;
   justify-content: space-between;
+  flex-wrap:wrap;
   margin-top: 25px;
   padding:0 8% 0 8%;
 }
